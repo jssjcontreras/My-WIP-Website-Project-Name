@@ -1,2 +1,2 @@
-# My WIP Website Project Name
+# WebPageOne
  Project for Web Design 1
